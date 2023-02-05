@@ -1,4 +1,4 @@
-# Mr.Burger
+# HTML5 banner
 
 Test assignment to create an HTML5 banner for Go Ahead
 ## Preview
